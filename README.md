@@ -1,4 +1,4 @@
-[masterhead-img.jpg](https://postimg.cc/N9FFJQRP)
+[![masterhead-img.jpg](https://i.postimg.cc/9Mt9fM0V/masterhead-img.jpg)](https://postimg.cc/N9FFJQRP)
 <h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
 <h3 align="center">Emerging Developer</h3>
 
