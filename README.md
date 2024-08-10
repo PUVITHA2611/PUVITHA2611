@@ -1,4 +1,4 @@
-<p><img src="C:\Users\N PUVITHA SRI\Downloads\masterhead img.jpeg&" alt="puvitha2611" /></p>
+[masterhead-img.jpg](https://postimg.cc/N9FFJQRP)
 <h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
 <h3 align="center">Emerging Developer</h3>
 
