@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGE6PJA0Ko/SmFJGlH4Svw07lc6HivFPQ/edit" alt="Banner Image">
+<img src="https://www.canva.com/design/DAGNbqnS71A/HcpBdX9CqTe94j_rRQHHTA/edit?utm_content=DAGNbqnS71A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner Image">
 
 <h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
 <h3 align="center">Emerging Developer</h3>
