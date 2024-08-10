@@ -1,7 +1,6 @@
+<img src="C:\Users\N PUVITHA SRI\Downloads\WhatsApp Image 2024-08-10 at 12.25.14 PM.jpeg">
 <h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
 <h3 align="center">Emerging Developer</h3>
-<img src="https://www.canva.com/design/DAGNbqnS71A/IIvsdAJM8r64pHH5xdJnGw/watch?utm_content=DAGNbqnS71A&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puvitha2611&label=Profile%20views&color=0e75b6&style=flat" alt="puvitha2611" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puvitha2611" alt="puvitha2611" /></a> </p>
