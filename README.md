@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puvitha2611&show_icons=true&locale=en" alt="puvitha2611" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puvitha2611&" alt="puvitha2611" /></p>
+
+<h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
