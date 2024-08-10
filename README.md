@@ -31,8 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puvitha2611&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-        <p>&nbsp;<img align="center" src="https://github-readme-status.vercel.app/api?username=puvitha2611&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puvitha2611&" alt="Streak Stats" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puvitha2611&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img align="center" src="https://github-readme-status.vercel.app/api?username=puvitha2611&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puvitha2611&" alt="Streak Stats" />
 
 
