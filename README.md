@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAGE6PJA0Ko/SmFJGlH4Svw07lc6HivFPQ/edit)]
+<img src="https://www.canva.com/design/DAGE6PJA0Ko/SmFJGlH4Svw07lc6HivFPQ/edit" alt="Banner Image">
+
 <h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
 <h3 align="center">Emerging Developer</h3>
 
