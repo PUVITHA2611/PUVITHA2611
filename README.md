@@ -1,5 +1,4 @@
-[![masterhead-img.jpg](https://i.postimg.cc/9Mt9fM0V/masterhead-img.jpg)](https://postimg.cc/N9FFJQRP)
-<h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
+[![Brown-Wood-Minimalist-Profile-Linked-In-Banner.png](https://i.postimg.cc/4NrRsC24/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)](https://postimg.cc/nCYPGWtN)<h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
 <h3 align="center">Emerging Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puvitha2611&label=Profile%20views&color=0e75b6&style=flat" alt="puvitha2611" /> </p>
