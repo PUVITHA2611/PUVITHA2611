@@ -38,5 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puvitha2611&show_icons=true&locale=en" alt="puvitha2611" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puvitha2611&" alt="puvitha2611" /></p>
-
-<h3 style="text-align: center;">Plan. Code. Execute. Repeat. </h3>
+<center>
+<h3 style="text-align: center;">Plan. Code. Execute. Repeat.🚀</h3>
+</center>
