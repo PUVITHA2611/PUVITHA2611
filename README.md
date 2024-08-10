@@ -1,4 +1,4 @@
-<img src="C:\Users\N PUVITHA SRI\Downloads\WhatsApp Image 2024-08-10 at 12.25.14 PM.jpeg">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Puvitha Sri N</h1>
 <h3 align="center">Emerging Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puvitha2611&label=Profile%20views&color=0e75b6&style=flat" alt="puvitha2611" /> </p>
@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puvitha2611&show_icons=true&locale=en&layout=compact" alt="puvitha2611" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puvitha2611&show_icons=true&locale=en" alt="puvitha2611" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-status.vercel.app/api?username=puvitha2611&show_icons=true&locale=en" alt="puvitha2611" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puvitha2611&" alt="puvitha2611" /></p>
